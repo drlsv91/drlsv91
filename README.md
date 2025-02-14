@@ -14,7 +14,7 @@ I'm a **Web Developer** specializing in **Nest.js**, **FastApi** and **React.js*
 - **Frontend:** React.js, Next.js, TailwindCSS
 - **Backend:** Node.js, Express.js, Nestjs, FastAPI
 - **Databases:** PostgreSQL, MongoDB
-- **DevOps & Tools:** Docker, Git, Redis, NATS
+- **DevOps & Tools:** Docker, Git, Redis, Jenkins, NATS
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drlsv91&show_icons=true&theme=radical)
